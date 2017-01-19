@@ -17,8 +17,16 @@
   width: 170px;
   height: 170px;
   border: 6px solid #ddd;
+  margin-top: 30px;
 }
 #profile h3 {
   color: #fff;
   font-size: bold;
+}
+#profile a{
+  margin-right: 10px;
+}
+#profile a > i {
+  font-size: 10pt;
+  text-decoration: none;
 }
