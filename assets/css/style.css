@@ -24,6 +24,21 @@
   text-decoration: none;
 }
 #profile p{
-  padding: 10px;
+  padding-top: 10px;
   color: #fff;
+  font-weight: bold;
+}
+#status{
+  padding: 7px;
+  margin-top: 25px;
+  background-color: rgba(39,78,82,0.8);
+  border-radius: 10px;
+}
+#status h5{
+  position: absolute;
+  background-color: #FFF;
+  padding: 5px;
+  border-radius: 10px;
+  margin-top: -23px;
+  margin-left: 10px;
 }
