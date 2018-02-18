@@ -97,3 +97,9 @@
 .progress-meter > .meter.meter-right > .meter-text {
 	text-align: right;
 }
+
+footer {
+  width: 100%;
+  height: 300px;
+  background: #000;
+}
